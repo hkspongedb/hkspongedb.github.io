@@ -1,0 +1,24 @@
+Accession	Taxon	Morphospecies	Location_Eng	Location_Chi	Latitude	Longitude	Image	Source	Date	Link	Description
+hksd_s1	To be determined	Haliclona	Basalt island	火石洲	22.3157	114.3654	doc/images/Basalt_island_HaliclonaEM101059May2022.jpg	Markus Rummel	7/4/2022	na	Haliclona EM101059
+hksd_s2	To be determined	Haliclona	Basalt island	火石洲	22.3157	114.3654	doc/images/Basalt_island_HaliclonaEM100267_1.jpg	Markus Rummel	09/27/2021	na	Haliclona EM100267_1
+hksd_s3	To be determined	Chondrilla	Basalt island	火石洲	22.3157	114.3654	doc/images/Basalt_island_ChondrillaEM108591July2022.jpg	Markus Rummel	07/29/2022	na	Chondrilla EM108591
+hksd_s4	To be determined	Mycale	Hoi Ha Wan	海下湾	22.4699	114.3337	doc/images/Hoi_Ha_Wan_MycaleEM100241.jpg	Markus Rummel	09/26/2021	na	Mycale EM100241
+hksd_s5	To be determined	Chondrilla	Hoi Ha Wan	海下湾	22.4699	114.3337	doc/images/Hoi_Ha_Wan_ChondrillaEM100221_2.jpg	Markus Rummel	09/25/2021	na	Chondrilla EM100221_2
+hksd_s6	To be determined	Spheciospongia vagbundus	Ninepin Island	果洲群岛	22.2635	114.3562	doc/images/Ninepin_Island_Spheciospongia_vagbundusP9102415.jpg	Markus Rummel	10/8/2022	na	Spheciospongia vagbundus P9102415
+hksd_s7	To be determined	Spheciospongia vagbundus	Pak Lap Tsai	白腊仔	22.3531	114.3645	doc/images/Pak_Lap_Tsai_Spheciospongia_vagbundusP1010052.jpg	Markus Rummel	2/1/2022	na	Spheciospongia vagbundus P1010052
+hksd_s8	To be determined	Haliclona	Wong Ngai Chau	黃泥洲	22.3448	114.3698	doc/images/Wong_Ngai_Chau_HaliclonaEM100294.jpg	Markus Rummel	11/1/2021	na	Haliclona EM100294
+hksd_s9	To be determined	Haliclona	Wong Ngai Chau	黃泥洲	22.3448	114.3698	doc/images/Wong_Ngai_Chau_HaliclonaEM530228April2023.jpg	Markus Rummel	04/21/2023	na	Haliclona EM530228
+hksd_s10	To be determined	Haliclona Haliclona	Wong Ngai Chau	黃泥洲	22.3448	114.3698	doc/images/Wong_Ngai_Chau_HaliclonaHaliclonaP1010029_2.jpg	Markus Rummel	9/10/2021	na	Haliclona Haliclona P1010029_2
+hksd_s11	To be determined	Haliclona	Wong Ngai Chau	黃泥洲	22.3448	114.3698	doc/images/Wong_Ngai_Chau_HaliclonaP1011072.jpg	Markus Rummel	05/31/2021	na	Haliclona P1011072
+hksd_s12	To be determined	Mycale humilis	Tai Long Wan	大浪灣	22.4033	114.3933	doc/images/Tai_Long_Wan_Mycale humilisEM530228Feb2023.jpg	Markus Rummel	4/10/2023	na	Mycale humilis EM530228
+hksd_s13	To be determined	Chondrilla	Tai Long Wan	大浪灣	22.4033	114.3933	doc/images/Tai_Long_Wan_ChondrillaEM100890April2022_1.jpg	Markus Rummel	6/3/2022	na	Chondrilla EM100890
+hksd_s14	To be determined	Haliclona	Breakers Reef	打浪排	22.4667	114.4168	doc/images/Breakers_Reef_HaliclonaEM100028.jpg	Markus Rummel	9/9/2021	na	Haliclona EM100028
+hksd_s15	To be determined	Haliclona	Breakers Reef	打浪排	22.4667	114.4168	doc/images/Breakers_Reef_HaliclonaEM100033.jpg	Markus Rummel	9/9/2021	na	Haliclona EM100033
+hksd_s16	To be determined	Haliclona	Breakers Reef	打浪排	22.4667	114.4168	doc/images/Breakers_Reef_HaliclonaEM100125_3.jpg	Markus Rummel	8/1/2021	na	Haliclona EM100125_3
+hksd_s17	To be determined	Haliclona	Breakers Reef	打浪排	22.4667	114.4168	doc/images/Breakers_Reef_HaliclonaEM100129.jpg	Markus Rummel	09/13/2021	na	Haliclona EM100129
+hksd_s18	To be determined	Mycale	Round Island	銀洲	22.2158	114.1854	doc/images/Round_Island_MycaleEM100152.jpg	Markus Rummel	03/22/2021	na	Mycale EM100152
+hksd_s19	To be determined	To be determined	Bluff Island	沙塘口山	22.3208	114.3498	doc/images/Bluff_Island_IMG_1896.jpg	Shan Zhang and Weizhi Song	5/12/2023	na	na
+hksd_s20	To be determined	To be determined	Bluff Island	沙塘口山	22.3208	114.3498	doc/images/Bluff_Island_IMG_1901.jpg	Shan Zhang and Weizhi Song	5/12/2023	na	na
+hksd_s21	To be determined	To be determined	Bluff Island	沙塘口山	22.3208	114.3498	doc/images/Bluff_Island_IMG_1919.jpg	Shan Zhang and Weizhi Song	5/12/2023	na	na
+hksd_s22	Haliclona cymaeformis	Haliclona cymaeformis	Po Toi O	布袋澳	22.2749	114.2942	doc/images/Po_Toi_O_Renmao_sponge.jpg	Literature	2014	https://doi.org/10.1128/mbio.01980-14	Tian RM, Wang Y, Bougouffa S, Gao ZM, Cai L, Zhang WP, Bajic V, Qian PY. Effect of copper treatment on the composition and function of the bacterial community in the sponge Haliclona cymaeformis. MBio. 2014 Dec 31;5(6):10-128.
+hksd_s23	To be determined	To be determined	HKUST BBQ Site	香港科技大学	22.3385	114.2671	doc/images/HKUST_BBQ_site.png	Shan Zhang and Weizhi Song	5/11/2025	na	na
