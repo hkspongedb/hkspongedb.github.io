@@ -23,10 +23,10 @@ hksd_s21	doc/images/Bluff_Island_IMG_1919.jpg	Bluff Island	沙塘口山	22.3208	
 hksd_s23	doc/images/HKUST_BBQ_site.png	HKUST BBQ Site	香港科技大学	22.3385	114.2671	Shan ZHANG and Weizhi SONG	5/11/2025	To be determined	To be determined	na	na
 hksd_s24	doc/images/20250809_Shelter_Island_E_1.jpg	Sharp Island	牛尾洲	22.3279	114.3019	Lucia HU and  Markus RUMMEL	20250809	To be determined	To be determined	na	To be determined
 hksd_s25	doc/images/20250809_Shelter_Island_E_2.jpg	Sharp Island	牛尾洲	22.3279	114.3019	Lucia HU and  Markus RUMMEL	20250809	To be determined	To be determined	na	To be determined
-hksd_s26	doc/images/20250809_Sharp_Island_E_3.JPG	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s27	doc/images/20250903_Sharp_Island_NE_4.JPG	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s28	doc/images/20250903_Sharp_Island_NE_6.JPG	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s29	doc/images/20250903_Sharp_Island_E_8.JPG	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s30	doc/images/20250903_Sharp_Island_E_10.JPG	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s31	doc/images/20250903_Sharp_Island_E_11.JPG	Sharp Island	橋咀洲	22.3635	114.2905	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s32	doc/images/20250903_Sharp_Island_E_12.JPG	Sharp Island	橋咀洲	22.3644	114.29	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
+hksd_s26	doc/images/20250809_Sharp_Island_E_3.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
+hksd_s27	doc/images/20250903_Sharp_Island_NE_4.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
+hksd_s28	doc/images/20250903_Sharp_Island_NE_6.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
+hksd_s29	doc/images/20250903_Sharp_Island_E_8.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
+hksd_s30	doc/images/20250903_Sharp_Island_E_10.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
+hksd_s31	doc/images/20250903_Sharp_Island_E_11.jpg	Sharp Island	橋咀洲	22.3635	114.2905	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
+hksd_s32	doc/images/20250903_Sharp_Island_E_12.jpg	Sharp Island	橋咀洲	22.3644	114.29	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
