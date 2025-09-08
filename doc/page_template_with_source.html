@@ -78,6 +78,8 @@
     <select id="taxonFilter"><option value="all">All</option></select>
     <label for="locationFilter">Location:</label>
     <select id="locationFilter"><option value="all">All</option></select>
+    <label for="sourceFilter">Source:</label>
+    <select id="sourceFilter"><option value="all">All</option></select>
     <button id="toggleClustering">Disable Clustering</button>
   </div>
 
@@ -92,11 +94,10 @@
     }).addTo(map);
 
     const speciesData = [
-
+      
       // add photo attributes here
-
+      
     ];
-
     const clusterGroup = L.markerClusterGroup();
     const normalGroup = L.layerGroup();
     let clusteringEnabled = true;
@@ -123,7 +124,9 @@
         const popupContent = createPopupContent(species);
         const marker = L.marker([species.lat, species.lng])
           .bindPopup(popupContent)
-          .on("mouseover", function () { this.openPopup(); })
+          .on("mouseover", function () {
+            this.openPopup();
+          })
           .on("mouseout", function () {
             if (!isHoveringPopup) popupTimeout = setTimeout(() => this.closePopup(), 300);
           });
@@ -134,22 +137,28 @@
     function updateFilters() {
       const taxonSet = new Set();
       const locationSet = new Set();
+      const sourceSet = new Set();
       speciesData.forEach(s => {
         taxonSet.add(s.taxon);
         locationSet.add(s.loci_eng);
+        sourceSet.add(s.source);
       });
       const taxonSelect = document.getElementById("taxonFilter");
       const locationSelect = document.getElementById("locationFilter");
+      const sourceSelect = document.getElementById("sourceFilter");
       for (const t of taxonSet) taxonSelect.innerHTML += `<option value="${t}">${t}</option>`;
       for (const l of locationSet) locationSelect.innerHTML += `<option value="${l}">${l}</option>`;
+      for (const s of sourceSet) sourceSelect.innerHTML += `<option value="${s}">${s}</option>`;
     }
 
     function filterAndRender() {
       const tVal = document.getElementById("taxonFilter").value;
       const lVal = document.getElementById("locationFilter").value;
+      const sVal = document.getElementById("sourceFilter").value;
       const filtered = speciesData.filter(s =>
         (tVal === "all" || s.taxon === tVal) &&
-        (lVal === "all" || s.loci_eng === lVal));
+        (lVal === "all" || s.loci_eng === lVal) &&
+        (sVal === "all" || s.source === sVal));
       if (clusteringEnabled) {
         generateMarkers(filtered, clusterGroup);
         map.removeLayer(normalGroup);
@@ -163,6 +172,7 @@
 
     document.getElementById("taxonFilter").addEventListener("change", filterAndRender);
     document.getElementById("locationFilter").addEventListener("change", filterAndRender);
+    document.getElementById("sourceFilter").addEventListener("change", filterAndRender);
 
     document.getElementById("toggleClustering").addEventListener("click", () => {
       clusteringEnabled = !clusteringEnabled;
@@ -186,7 +196,9 @@
       const markers = a.layer.getAllChildMarkers();
       const columns = Math.min(markers.length, 5);
       let content = `<div class="cluster-grid" style="grid-template-columns: repeat(${columns}, 1fr);">`;
-      markers.forEach((m) => { content += `<div class="cluster-item">${m.getPopup().getContent()}</div>`; });
+      markers.forEach((m) => {
+        content += `<div class="cluster-item">${m.getPopup().getContent()}</div>`;
+      });
       content += "</div>";
       const popup = L.popup({ maxWidth: 1200, autoPan: false })
         .setLatLng(a.layer.getLatLng())
