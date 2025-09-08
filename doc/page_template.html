@@ -8,8 +8,21 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
   <style>
+    body, html {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      font-family: Arial, sans-serif;
+    }
+    #disclaimer-container {
+      height: 6vh;
+      width: 100%;
+      gap: 0px;
+      background: #f5f5f5;
+    }
     #map {
-      height: 100vh;
+      height: 94vh;
       width: 100%;
     }
     .popup-content img {
@@ -43,7 +56,7 @@
     }
     .control-panel {
       position: absolute;
-      top: 10px;
+      top: 66px;
       right: 10px;
       z-index: 1000;
       background: white;
@@ -68,10 +81,14 @@
   </style>
 </head>
 <body>
-  <div class="disclaimer">
-    All photos and samples presented on this website are from our own observations and collections and have NOT yet been published.<br/>
-    For permission to use any of the photos presented here, please contact Dr. Weizhi Song (ocessongwz@ust.hk) for approval.
+  
+  <div id="disclaimer-container">    
+    <div class="disclaimer">
+      All photos and samples presented on this website are from our own observations and collections and have NOT yet been published.<br/>
+      For permission to use any of the photos presented here, please contact Dr. Weizhi Song (ocessongwz@ust.hk) for approval.
+    </div>
   </div>
+
   <div id="map"></div>
   <div class="control-panel">
     <label for="taxonFilter">Taxon:</label>
