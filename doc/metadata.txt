@@ -30,3 +30,6 @@ hksd_s29	doc/images/20250903_Sharp_Island_E_8.jpg	Sharp Island	橋咀洲	22.3638
 hksd_s30	doc/images/20250903_Sharp_Island_E_10.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
 hksd_s31	doc/images/20250903_Sharp_Island_E_11.jpg	Sharp Island	橋咀洲	22.3635	114.2905	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
 hksd_s32	doc/images/20250903_Sharp_Island_E_12.jpg	Sharp Island	橋咀洲	22.3644	114.29	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
+hksd_s33	doc/images/20250905_Tai_Long_Wan_1.jpg	Tai Long Wan	大浪灣	22.403	114.3937	Markus RUMMEL	20250905	To be determined	To be determined	na	To be determined
+hksd_s34	doc/images/20250905_Tai_Long_Wan_3.jpg	Tai Long Wan	大浪灣	22.403	114.3937	Markus RUMMEL	20250905	To be determined	To be determined	na	To be determined
+hksd_s35	doc/images/20250905_Tai_Long_Wan_4.jpg	Tai Long Wan	大浪灣	22.403	114.3937	Markus RUMMEL	20250905	To be determined	To be determined	na	To be determined
