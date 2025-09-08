@@ -1,7 +1,7 @@
 Accession	Image	Location_Eng	Location_Chi	Latitude	Longitude	Source	Date	Taxon	Morphospecies	Link	Description
-hksd_s1	doc/images/Basalt_island_HaliclonaEM101059May2022.jpg	Basalt island	火石洲	22.3157	114.3654	Markus RUMMEL	7/4/2022	To be determined	Haliclona	na	Haliclona EM101059
-hksd_s2	doc/images/Basalt_island_HaliclonaEM100267_1.jpg	Basalt island	火石洲	22.3157	114.3654	Markus RUMMEL	09/27/2021	To be determined	Haliclona	na	Haliclona EM100267_1
-hksd_s3	doc/images/Basalt_island_ChondrillaEM108591July2022.jpg	Basalt island	火石洲	22.3157	114.3654	Markus RUMMEL	07/29/2022	To be determined	Chondrilla	na	Chondrilla EM108591
+hksd_s1	doc/images/Basalt_island_HaliclonaEM101059May2022.jpg	Basalt Island	火石洲	22.3157	114.3654	Markus RUMMEL	7/4/2022	To be determined	Haliclona	na	Haliclona EM101059
+hksd_s2	doc/images/Basalt_island_HaliclonaEM100267_1.jpg	Basalt Island	火石洲	22.3157	114.3654	Markus RUMMEL	09/27/2021	To be determined	Haliclona	na	Haliclona EM100267_1
+hksd_s3	doc/images/Basalt_island_ChondrillaEM108591July2022.jpg	Basalt Island	火石洲	22.3157	114.3654	Markus RUMMEL	07/29/2022	To be determined	Chondrilla	na	Chondrilla EM108591
 hksd_s4	doc/images/Hoi_Ha_Wan_MycaleEM100241.jpg	Hoi Ha Wan	海下湾	22.4699	114.3337	Markus RUMMEL	09/26/2021	To be determined	Mycale	na	Mycale EM100241
 hksd_s5	doc/images/Hoi_Ha_Wan_ChondrillaEM100221_2.jpg	Hoi Ha Wan	海下湾	22.4699	114.3337	Markus RUMMEL	09/25/2021	To be determined	Chondrilla	na	Chondrilla EM100221_2
 hksd_s6	doc/images/Ninepin_Island_Spheciospongia_vagbundusP9102415.jpg	Ninepin Island	果洲群岛	22.2635	114.3562	Markus RUMMEL	10/8/2022	To be determined	Spheciospongia vagbundus	na	Spheciospongia vagbundus P9102415
@@ -17,19 +17,28 @@ hksd_s15	doc/images/Breakers_Reef_HaliclonaEM100033.jpg	Breakers Reef	打浪排	
 hksd_s16	doc/images/Breakers_Reef_HaliclonaEM100125_3.jpg	Breakers Reef	打浪排	22.4667	114.4168	Markus RUMMEL	8/1/2021	To be determined	Haliclona	na	Haliclona EM100125_3
 hksd_s17	doc/images/Breakers_Reef_HaliclonaEM100129.jpg	Breakers Reef	打浪排	22.4667	114.4168	Markus RUMMEL	09/13/2021	To be determined	Haliclona	na	Haliclona EM100129
 hksd_s18	doc/images/Round_Island_MycaleEM100152.jpg	Round Island	銀洲	22.2158	114.1854	Markus RUMMEL	03/22/2021	To be determined	Mycale	na	Mycale EM100152
-hksd_s19	doc/images/Bluff_Island_IMG_1896.jpg	Bluff Island	沙塘口山	22.3208	114.3498	Shan ZHANG and Weizhi SONG	5/12/2023	To be determined	To be determined	na	na
-hksd_s20	doc/images/Bluff_Island_IMG_1901.jpg	Bluff Island	沙塘口山	22.3208	114.3498	Shan ZHANG and Weizhi SONG	5/12/2023	To be determined	To be determined	na	na
-hksd_s21	doc/images/Bluff_Island_IMG_1919.jpg	Bluff Island	沙塘口山	22.3208	114.3498	Shan ZHANG and Weizhi SONG	5/12/2023	To be determined	To be determined	na	na
-hksd_s23	doc/images/HKUST_BBQ_site.png	HKUST BBQ Site	香港科技大学	22.3385	114.2671	Shan ZHANG and Weizhi SONG	5/11/2025	To be determined	To be determined	na	na
-hksd_s24	doc/images/20250809_Shelter_Island_E_1.jpg	Shelter Island	牛尾洲	22.3279	114.3019	Lucia HU and Markus RUMMEL	20250809	To be determined	To be determined	na	To be determined
-hksd_s25	doc/images/20250809_Shelter_Island_E_2.jpg	Shelter Island	牛尾洲	22.3279	114.3019	Lucia HU and Markus RUMMEL	20250809	To be determined	To be determined	na	To be determined
-hksd_s26	doc/images/20250809_Sharp_Island_E_3.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s27	doc/images/20250903_Sharp_Island_NE_4.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s28	doc/images/20250903_Sharp_Island_NE_6.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s29	doc/images/20250903_Sharp_Island_E_8.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s30	doc/images/20250903_Sharp_Island_E_10.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s31	doc/images/20250903_Sharp_Island_E_11.jpg	Sharp Island	橋咀洲	22.3635	114.2905	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s32	doc/images/20250903_Sharp_Island_E_12.jpg	Sharp Island	橋咀洲	22.3644	114.29	Markus RUMMEL	20250903	To be determined	To be determined	na	To be determined
-hksd_s33	doc/images/20250905_Tai_Long_Wan_1.jpg	Tai Long Wan	大浪灣	22.403	114.3937	Markus RUMMEL	20250905	To be determined	To be determined	na	To be determined
-hksd_s34	doc/images/20250905_Tai_Long_Wan_3.jpg	Tai Long Wan	大浪灣	22.403	114.3937	Markus RUMMEL	20250905	To be determined	To be determined	na	To be determined
-hksd_s35	doc/images/20250905_Tai_Long_Wan_4.jpg	Tai Long Wan	大浪灣	22.403	114.3937	Markus RUMMEL	20250905	To be determined	To be determined	na	To be determined
+hksd_s19	doc/images/Bluff_Island_IMG_1896.jpg	Bluff Island	沙塘口山	22.3208	114.3498	Shan ZHANG and Weizhi SONG	5/12/2023	To be determined	To be determined	na	to be added
+hksd_s20	doc/images/Bluff_Island_IMG_1901.jpg	Bluff Island	沙塘口山	22.3208	114.3498	Shan ZHANG and Weizhi SONG	5/12/2023	To be determined	To be determined	na	to be added
+hksd_s21	doc/images/Bluff_Island_IMG_1919.jpg	Bluff Island	沙塘口山	22.3208	114.3498	Shan ZHANG and Weizhi SONG	5/12/2023	To be determined	To be determined	na	to be added
+hksd_s23	doc/images/HKUST_BBQ_site.png	HKUST BBQ Site	香港科技大学	22.3385	114.2671	Shan ZHANG and Weizhi SONG	5/11/2025	To be determined	To be determined	na	to be added
+hksd_s24	doc/images/20250809_Shelter_Island_E_1.jpg	Shelter Island	牛尾洲	22.3279	114.3019	Lucia HU and Markus RUMMEL	20250809	To be determined	To be determined	na	to be added
+hksd_s25	doc/images/20250809_Shelter_Island_E_2.jpg	Shelter Island	牛尾洲	22.3279	114.3019	Lucia HU and Markus RUMMEL	20250809	To be determined	To be determined	na	to be added
+hksd_s26	doc/images/20250809_Sharp_Island_E_3.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	to be added
+hksd_s27	doc/images/20250903_Sharp_Island_NE_4.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	to be added
+hksd_s28	doc/images/20250903_Sharp_Island_NE_6.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	to be added
+hksd_s29	doc/images/20250903_Sharp_Island_E_8.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	to be added
+hksd_s30	doc/images/20250903_Sharp_Island_E_10.jpg	Sharp Island	橋咀洲	22.3638	114.2911	Markus RUMMEL	20250903	To be determined	To be determined	na	to be added
+hksd_s31	doc/images/20250903_Sharp_Island_E_11.jpg	Sharp Island	橋咀洲	22.3635	114.2905	Markus RUMMEL	20250903	To be determined	To be determined	na	to be added
+hksd_s32	doc/images/20250903_Sharp_Island_E_12.jpg	Sharp Island	橋咀洲	22.3644	114.29	Markus RUMMEL	20250903	To be determined	To be determined	na	to be added
+hksd_s33	doc/images/20250905_Tai_Long_Wan_1.jpg	Tai Long Wan	大浪灣	22.403	114.3937	Markus RUMMEL	20250905	To be determined	To be determined	na	to be added
+hksd_s34	doc/images/20250905_Tai_Long_Wan_3.jpg	Tai Long Wan	大浪灣	22.403	114.3937	Markus RUMMEL	20250905	To be determined	To be determined	na	to be added
+hksd_s35	doc/images/20250905_Tai_Long_Wan_4.jpg	Tai Long Wan	大浪灣	22.403	114.3937	Markus RUMMEL	20250905	To be determined	To be determined	na	to be added
+hksd_s36	doc/images/EM100009.JPG	Sharp Island or Basalt Island	橋咀洲或火石洲	22.3214	114.3162	Markus RUMMEL	to be added	To be determined	To be determined	na	to be added
+hksd_s37	doc/images/EM100024.JPG	Sharp Island or Basalt Island	橋咀洲或火石洲	22.3214	114.3162	Markus RUMMEL	to be added	To be determined	To be determined	na	to be added
+hksd_s38	doc/images/EM100031.JPG	Sharp Island or Basalt Island	橋咀洲或火石洲	22.3214	114.3162	Markus RUMMEL	to be added	To be determined	To be determined	na	to be added
+hksd_s39	doc/images/EM100040.JPG	Sharp Island or Basalt Island	橋咀洲或火石洲	22.3214	114.3162	Markus RUMMEL	to be added	To be determined	To be determined	na	to be added
+hksd_s40	doc/images/EM100049.JPG	Sharp Island or Basalt Island	橋咀洲或火石洲	22.3214	114.3162	Markus RUMMEL	to be added	To be determined	To be determined	na	to be added
+hksd_s41	doc/images/EM100076.JPG	Sharp Island or Basalt Island	橋咀洲或火石洲	22.3214	114.3162	Markus RUMMEL	to be added	To be determined	To be determined	na	to be added
+hksd_s42	doc/images/EM100081.JPG	Sharp Island or Basalt Island	橋咀洲或火石洲	22.3214	114.3162	Markus RUMMEL	to be added	To be determined	To be determined	na	to be added
+hksd_s43	doc/images/EM100147.JPG	Sharp Island or Basalt Island	橋咀洲或火石洲	22.3214	114.3162	Markus RUMMEL	to be added	To be determined	To be determined	na	to be added
+hksd_s44	doc/images/EM100163.JPG	Sharp Island or Basalt Island	橋咀洲或火石洲	22.3214	114.3162	Markus RUMMEL	to be added	To be determined	To be determined	na	to be added
